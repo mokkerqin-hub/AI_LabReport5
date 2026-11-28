@@ -35,7 +35,7 @@ streamlit run app.py
 
 ## Project structure
 ```
-app.py               # Streamlit app
+lab5_app.py               # Streamlit app
 requirements.txt     # dependencies
 screenshots/         # README images
 testing images/      # upload images for testing
